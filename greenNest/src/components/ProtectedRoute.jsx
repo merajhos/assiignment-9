@@ -10,9 +10,9 @@ import Loading from "../pages/Loading";
 
 //   if (loading) return <Loading></Loading>;
 
-//   if (!user) {
-//     return <Navigate to="/login" state={{ from: location }} replace />;
-//   }
+  if (!user) {
+    return <Navigate to="/login" state={{ from: location }} replace />;
+  }
 
   return children;
 }
