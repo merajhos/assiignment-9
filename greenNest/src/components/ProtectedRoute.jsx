@@ -14,6 +14,6 @@ import Loading from "../pages/Loading";
 //     return <Navigate to="/login" state={{ from: location }} replace />;
 //   }
 
-//   return children;
-// }
-// export default ProtectedRoute;
+  return children;
+}
+export default ProtectedRoute;
