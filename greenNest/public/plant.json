@@ -1,0 +1,98 @@
+[
+    {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://houseplantcentral.com/wp-content/uploads/2022/05/A-Type-of-Snake-Plant-for-Every-Home.jpg",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 2,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 22,
+    "rating": 4.7,
+    "availableStock": 15,
+    "careLevel": "Medium",
+    "description": "Elegant white blooms that filter toxins and add beauty to any room.",
+    "image": "https://eadn-wc04-6661833.nxedge.io/wp-content/uploads/2024/01/Peace-Lily-Flower-1024x1024.jpg",
+    "providerName": "Leaf & Root"
+  },
+  {
+    "plantId": 3,
+    "plantName": "Monstera Deliciosa",
+    "category": "Tropical",
+    "price": 35,
+    "rating": 4.9,
+    "availableStock": 8,
+    "careLevel": "Medium",
+    "description": "Famous for its large split leaves and modern aesthetic appeal.",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.8imUPTFYnMIi4svd7tMPUgHaHa?pid=Api&P=0&h=220",
+    "providerName": "GreenNest Official"
+  },
+  {
+    "plantId": 4,
+    "plantName": "Aloe Vera",
+    "category": "Succulent",
+    "price": 15,
+    "rating": 4.6,
+    "availableStock": 25,
+    "careLevel": "Easy",
+    "description": "Low-maintenance succulent known for its healing gel.",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.nXsZbXlbB_xjRoI3RYPEUAHaHa?pid=Api&P=0&h=220",
+    "providerName": "Plantify BD"
+  },
+  {
+    "plantId": 5,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Decorative",
+    "price": 40,
+    "rating": 4.5,
+    "availableStock": 5,
+    "careLevel": "Hard",
+    "description": "Large lush leaves make it a centerpiece in modern interiors.",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.ZSL0penL-9yVebCbx5QjVQHaI6?pid=Api&P=0&h=220",
+    "providerName": "Botanica Living"
+  },
+  {
+    "plantId": 6,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 20,
+    "rating": 4.8,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "Thrives on neglect—perfect for busy plant parents.",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.dWBwUd3Hj5Jyce2eW3P1eQHaJ4?pid=Api&P=0&h=220",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "plantId": 7,
+    "plantName": "Rubber Plant",
+    "category": "Indoor Foliage",
+    "price": 28,
+    "rating": 4.7,
+    "availableStock": 9,
+    "careLevel": "Medium",
+    "description": "Glossy leaves and strong air-purifying qualities.",
+    "image": "https://tse1.mm.bing.net/th/id/OIP.wWxKBwP6SLeaopWVH88IJAHaIG?pid=Api&P=0&h=220",
+    "providerName": "Leaf & Root"
+  },
+  {
+    "plantId": 8,
+    "plantName": "Areca Palm",
+    "category": "Palm",
+    "price": 30,
+    "rating": 4.6,
+    "availableStock": 18,
+    "careLevel": "Easy",
+    "description": "Tropical palm that adds lush greenery to any living space.",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.GEcsXhrYyebkUz17gWbWKQHaE8?pid=Api&P=0&h=220",
+    "providerName": "GreenNest Official"
+  }
+]
